@@ -1,0 +1,96 @@
+@media only screen and (max-device-width: 850) {
+    #main {
+        width: 90%;
+        margin: auto;
+    }
+}
+body {
+    background-color: blue;
+}
+#main {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+}
+#color,#main {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+#foto {
+    border-style: solid;
+    border-color: white;
+    border-width: 6px;
+    border-color: white;
+    margin-left: 33%;
+    margin-top: -50px;
+    border-radius: 80px;
+}
+span {
+    color: grey;
+}
+#p1 {
+    text-align: center;
+    font-size: 23px;
+}
+#p2 {
+    margin-top: -12px;
+    text-align: center;
+    font-size: 18px;
+    color: grey;
+}
+#p3 {
+    font-weight: 600;
+    color:black;
+    font-size: 20px;
+}
+#p4 {
+    color: grey;
+    font-size: 12px;
+}
+#p5 {
+    font-weight: 600;
+    color:black;
+    font-size: 20px;
+}
+#p6 {
+    color: grey;
+    font-size: 12px;
+
+}
+#p7 {
+    font-weight: 600;
+    color:black;
+    font-size: 20px;
+}
+#p8 {
+    color: grey;
+    font-size: 12px;
+
+}
+#linha {
+    height: 1px;
+    width: 350px;
+    background-color: rgba(128, 128, 128, 0.336);
+}
+#infoDois {
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+}
+#div1 {
+    line-height: 0.3;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+#div2 {
+    line-height: 0.3;
+
+    margin-right: 20%;
+}
+#div3 {
+    line-height: 0.3;
+
+    margin-right: 10%;
+}
